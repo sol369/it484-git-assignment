@@ -1,4 +1,7 @@
 # it484-git-assignment
 assignment for learning git
 
-Gunnar Slette
+
+Completed:
+* Travis Britz
+* Gunnar Slette
